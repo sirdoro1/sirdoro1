@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oghenedoro David Agbroko
-- 👀 I’m interested inconributing to open source projects and building world class products that solve real life problems.
+- 👀 I’m interested in conributing to open source projects and building world class products that solve real life problems.
 <!-- 🌱 I’m currently learning product management. -->
 - 💞️ I’m looking to collaborate on open source project that is based on the laravel and vue ecosystem. 
 
