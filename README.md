@@ -9,7 +9,7 @@ I love building stuff that instruct the machine.
   
   Email sirdoro1@gmail.com
   Twitter <a href="https://twitter.com/_sirdoro1">@_sirdoro1</a>
-  Telegram 09057324617
+  Telegram +234-905-7324-617
   
 
 <!---
