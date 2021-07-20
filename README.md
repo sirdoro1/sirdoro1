@@ -12,8 +12,6 @@ I love building stuff that instruct the machine.
   Twitter <a href="https://twitter.com/_sirdoro1">@_sirdoro1</a>
   Telegram +234-905-7324-617
   
-  ![](https://visitor-badge.glitch.me/badge?page_id=sirdoro1)
-  
 
 <!---
 sirdoro1/sirdoro1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
