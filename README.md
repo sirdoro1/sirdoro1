@@ -8,7 +8,7 @@ I love building stuff that instruct the machine.
 
 - 📫 How to reach me:  
   
-  Email sirdoro1@gmail.com
+  Email dd.agbroko@outlook.com; sirdoro1@gmail.com
   Twitter <a href="https://twitter.com/_sirdoro1">@_sirdoro1</a>
   Telegram <a href="https://t.me/sirdoro1">@sirdoro1</a>
   LinkedIn <a href="#">Oghenedoro Agbroko</a>
