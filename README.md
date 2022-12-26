@@ -17,5 +17,4 @@ I love building stuff that instruct the machine.
 <!---
 sirdoro1/sirdoro1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
-Updating soon here
 --->
